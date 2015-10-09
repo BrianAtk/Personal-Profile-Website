@@ -1,0 +1,92 @@
+body {
+    background-size: cover;
+    color: white;
+    font-family: times new Roman;
+    font-size: 20px;
+    margin-top: 25px;
+    text-align: center;
+    overflow: scroll;
+    max-height: 250px;
+    width: 100%;
+    background-image: url("http://i173.photobucket.com/albums/w71/brian_atkins1/beautifulLake%201_zpsodapl979.jpg");
+}
+
+h1 {
+    /*font-family:cursive;*/
+    /*font-style:italic;
+    font-family:'Script MT'*/
+    /*font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;*/
+    font: 400 100px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+
+a:hover {
+    color: #FF00FF;
+}
+#freecodecampimg {
+    height: 45px;
+    width: 45px;
+}
+
+#mesailing {
+    border-radius:100px;
+}
+
+.appDescription {
+    text-align:left;
+    width:360px;
+    margin-top:5px;
+    /*margin-bottom:5px;*/
+}
+
+
+.apps {
+    height:600px;
+    width:360px;
+}
+
+
+.bottomp1 {
+       margin-top:150px;
+}
+
+.clock {
+    border-radius:200px;
+    background-clip:         padding-box;
+}
+
+
+.logo {
+    margin-top:100px;
+}
+
+.myimage {
+    margin-top:105px;
+    /*margin-left:-1000px;*/
+}
+
+.page3 {
+    margin-top:500px;
+}
+
+.scriptBasic {
+    font: 400 50px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+    margin:20px;
+}
+
+
+.scriptSmall {
+    font: 400 30px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+    margin:20px;
+}
+
+
+.links {
+    color: white;
+}
+
